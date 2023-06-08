@@ -1,0 +1,63 @@
+.notifications-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.success-icon {
+  color: #2dca73;
+  height: 30px;
+  width: 30px;
+}
+.error-icon {
+  color: #ff0b37;
+  height: 30px;
+  width: 30px;
+}
+.warning-icon {
+  color: #ffb800;
+  height: 30px;
+  width: 30px;
+}
+.info-icon {
+  color: #0f81e0;
+  height: 30px;
+  width: 30px;
+}
+
+.success-heading {
+  color: #2dca73;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+.error-heading {
+  color: #ff0b37;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+.warning-heading {
+  color: #ffb800;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+.info-heading {
+  color: #0f81e0;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+
+.para {
+  font-family: 'Roboto';
+  color: #475569;
+  font-size: 15px;
+}
+
+.main-heading {
+  font-family: 'Roboto';
+  font-size: 40px;
+  color: #0f172a;
+}
+.result-container {
+  padding: 0px;
+}
